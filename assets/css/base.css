@@ -1,0 +1,15 @@
+:root {
+    --black-color: #000;
+    --white-color: #fff;
+    --blur-color-text: #666;
+    --header-height: 46px;
+    --hover-background: #ccc;
+}
+
+.text-white {
+    color: var(--white-color);
+}
+
+html {
+    font-size: 62.5%;
+}
